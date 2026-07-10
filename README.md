@@ -77,7 +77,7 @@ The visualization results highlight the ability of ASP-LIME to generate more foc
 </p>
 
 <p align="center">
-  <img src="explanation.PNG" width="350"/>
+  <img src="explanation_steps.PNG" width="350"/>
 </p>
 
 
