@@ -84,7 +84,7 @@ The visualization results highlight the ability of ASP-LIME to generate more foc
 
 The complete methodology, experimental evaluation, and analysis are presented in our research publication:
 
-📄 **Paper:** [Explainable deep learning-based lung cancer diagnosis using clinically-guided local interpretable model-agnostic explanations]([[PAPER_LINK][(https://www.nature.com/articles/s41598-026-44127-x)])
+📄 **Paper:** [Explainable deep learning-based lung cancer diagnosis using clinically-guided local interpretable model-agnostic explanations]([[PAPER_LINK])(https://www.nature.com/articles/s41598-026-44127-x)
 
 
 
