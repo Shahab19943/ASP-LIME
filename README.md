@@ -79,7 +79,7 @@ To demonstrate the effectiveness of ASP-LIME, visualization experiments were con
 The visualization results highlight the ability of ASP-LIME to generate more focused, stable, and anatomically meaningful explanations for deep learning-based medical image classification.
 
 <p align="center">
-  <img src="explanation_steps.PNG" width="850"/>
+  <img src="explanation_steps.PNG" width="800"/>
 </p>
 
 
