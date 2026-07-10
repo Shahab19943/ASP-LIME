@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="methodology.png" width="850"/>
+</p>
+
 # ASP-LIME for Explainable Medical Imaging
 Explainable AI Approach
 
