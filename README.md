@@ -15,18 +15,6 @@ ASP-LIME extends the traditional Local Interpretable Model-Agnostic Explanations
 
 The goal of ASP-LIME is to bridge the gap between high-performing deep learning models and trustworthy AI systems by providing transparent explanations that can support human decision-making in healthcare.
 
-## Motivation
-
-Although deep learning models achieve excellent performance in medical image classification, their lack of transparency remains a major barrier to clinical adoption. Traditional explanation methods may generate unstable or clinically irrelevant explanations because of random perturbations and insufficient consideration of anatomical structures.
-
-ASP-LIME was developed to address these limitations by producing explanations that are:
-
-- More stable across multiple runs
-- More focused on relevant anatomical regions
-- Easier for clinicians to interpret
-- More aligned with medical imaging characteristics
-
-
 ## Key Features
 
 - Adaptive superpixel-based image segmentation
@@ -85,7 +73,7 @@ To demonstrate the effectiveness of ASP-LIME, visualization experiments were con
 The visualization results highlight the ability of ASP-LIME to generate more focused, stable, and anatomically meaningful explanations for deep learning-based medical image classification.
 
 <p align="center">
-  <img src="explanation.PNG" width="850"/>
+  <img src="explanation.PNG" width="650"/>
 </p>
 
 
