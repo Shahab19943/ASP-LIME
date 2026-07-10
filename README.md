@@ -15,6 +15,12 @@ ASP-LIME extends the traditional Local Interpretable Model-Agnostic Explanations
 
 The goal of ASP-LIME is to bridge the gap between high-performing deep learning models and trustworthy AI systems by providing transparent explanations that can support human decision-making in healthcare.
 
+
+<p align="center">
+  <img src="explanation.PNG" width="350"/>
+</p>
+
+
 ## Key Features
 
 - Adaptive superpixel-based image segmentation
@@ -77,10 +83,6 @@ The visualization results highlight the ability of ASP-LIME to generate more foc
 </p>
 
 
-
-<p align="center">
-  <img src="explanation.PNG" width="350"/>
-</p>
 
 
 
